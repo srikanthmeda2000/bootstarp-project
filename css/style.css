@@ -1,0 +1,249 @@
+@media (max-width: 767px) { 
+    *{
+        margin: 0;
+    }
+}
+.row{
+    margin-top: 60px;
+}
+#navbar-brand-img{
+    width: 50px;
+    height: 50px;
+}
+img{
+    width: 100%;
+    height: 450px;
+}
+#navbar-brand-img{
+    width: 100%;
+    height: 90px;
+}
+#row-img{
+    width: 100%;
+    height: 90px;
+}
+.btmport{
+   width: 50px;
+   height: 50px;
+   border-radius: 30px;
+   background-color: white;
+   padding-bottom: 10px;
+   margin-top: -50px;
+   margin-left: 30%;
+}
+@media (max-width: 767px) { 
+    .btmport{
+        margin:0px;
+    }
+}
+.content{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+#content{
+    font-size: 15px;
+    font-weight: 100;
+}
+.num{
+    font-size: 25px;
+    font-weight: bold;
+}
+.text{
+    font-size: 13px;
+}
+#box{
+    margin-top: 10%;
+}
+@media (max-width: 767px) { 
+    #details{
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+}
+#h1{
+    z-index: 2;
+    margin-left: -100px;
+    padding-bottom: 20px;
+}
+@media (max-width: 767px) { 
+    #h1{
+       margin-left: 1px;
+       padding-bottom: 20px;
+    }
+}
+h2{
+    padding-bottom: 20px;
+}
+#box1{
+    margin-top: 10%;
+}
+.btn-primary{
+    margin-top: 10%;
+    margin-bottom: 1%;
+    background-color: white;
+    color: blue;
+    border-color: blue;
+}
+#container{
+    background-color: rgb(241, 241, 241);
+}
+p{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+h1{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+i{
+    padding-left: 4px;
+    padding-top: 16px;
+    width: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    height: 50px;
+    border: 1px solid white;
+}
+#arrow{
+    padding-left: 15px;
+    padding-top: 16px;
+    width: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    height: 50px;
+    border: 1px solid white;
+    margin-top: -37px;
+    margin-left: 84%;
+    z-index: 1;
+}
+#box2{
+    margin-top: 80px;
+}
+@media (max-width: 767px) { 
+    #box2{
+        margin-top: 10px;
+    }
+}
+#col-img{
+    height: 200px;
+    margin-bottom: 7px;
+    margin-top: 20px;
+}
+#col-p{
+    margin-top: 50px;
+}
+.textstp1{
+    position: absolute;
+    top: 3250px;
+    left: 150px;
+  
+
+}
+.textstp1>h1{
+    font-size: 60px;
+
+}
+.textstp2{
+    position: absolute;
+    top: 3400px;
+   font-size: 15px;
+   left: 700px;
+
+}
+.emp3{
+    height: 400px;
+}
+
+.ofcInt{
+    height: 380px;
+    background-color: #e7ebee;
+    margin-top: 20%;
+    text-align: center;
+    padding-top: 5%;
+    padding-left:2% ;
+    padding-right: 2%;
+  
+  
+    
+   
+}
+.ofcInt12{
+    text-align: left;
+    padding-left: 5%;
+    
+    padding-top: 2%;
+}
+.ofcIntp{
+    text-align: left;
+}@media (max-width: 767px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* medium and up screens */
+@media (min-width: 768px) {
+
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+        transform: translateX(25%);
+    }
+
+    .carousel-inner .carousel-item-start.active, 
+    .carousel-inner .carousel-item-prev {
+        transform: translateX(-25%);
+    }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+    transform: translateX(0);
+}
+#ontime{
+    padding-left: 10px;
+}
+
+.scrollcon{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+
+    background-color: #dee3e7;
+    padding: 20px;
+}
+#row-button{
+    margin-left: -59%;
+    margin-top: 1%;
+}
+.schead{
+    padding: 30px;
+}
+.emdiv{
+    height: 210px;
+}
+.sologo{
+    font-size: 30px;
+    margin-top: -40px;
+}
+#row-content{
+    margin-top: -80px;
+}
+/* @media (min-width: 767px) {
+    .sologo{
+        text-align: left;
+        font-size: 30px;
+        margin-top: -45px;
+    }
+} */
